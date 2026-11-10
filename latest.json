@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.64",
+ "latest": "0.6.65",
  "date": "2026-11-11",
- "notes": "Обновление с сайта надёжнее: пока идёт установка, вместо страницы показывается «Идёт обновление прошивки». Обновления по кнопке: «Общие» → «Обновления».",
+ "notes": "Исправлено «нет связи с сайтом обновлений» примерно в каждой пятой проверке: до 4 попыток соединения. При неудаче видно время и причину. Обновления по кнопке: «Общие» → «Обновления».",
  "ota": {
-  "url": "fw/0.6.64/alterston_light_0.6.64_ota.bin",
-  "size": 1264208,
-  "sha256": "bb7dd30393c1fb6969811d6e0b0d9fed9da56078fa85d88027742a638b77dfa5"
+  "url": "fw/0.6.65/alterston_light_0.6.65_ota.bin",
+  "size": 1265376,
+  "sha256": "afc732f8e6210ef0a3ebf078e4a323bda762cc7b999202d9222c8626dfa7c122"
  },
  "page": {
-  "url": "fw/0.6.64/alterston_light_0.6.64_page.htm.gz",
-  "size": 381491,
-  "sha256": "40e5019714a5fc4ddef6d355d1a5ede7cf549d6e2b634a10af6e08655f63b41c"
+  "url": "fw/0.6.65/alterston_light_0.6.65_page.htm.gz",
+  "size": 381669,
+  "sha256": "706cea0489879eb8c19363bb8b76da71fbf2c62405fd983f0f094dc8a6aeedee"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.64_beta.zip",
-  "size": 6808903,
-  "sha256": "bc190d2c953dbe2c3c8d5371e848d03e696dae8128e9550c779f565d09e2c6bc"
+  "url": "download/Alterston_Light_0.6.65_beta.zip",
+  "size": 6812323,
+  "sha256": "23d06584c0ce33af5c9afebf313f7779b57e36e3fd6fa7b42e9475c515b8c974"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
