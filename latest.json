@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.61",
+ "latest": "0.6.62",
  "date": "2026-11-11",
- "notes": "Статистика для автора по галочке, понятные подсказки тока драйвера и шага Wi-Fi, перенос с Xendil с таймерами, защита отката.",
+ "notes": "Обновления по кнопке: «Общие» → «Обновления». Светильник сам проверяет сайт автора, скачивает, сверяет SHA-256 и ставит. Значок «Есть обновление» на «Главной».",
  "ota": {
-  "url": "fw/0.6.61/alterston_light_0.6.61_ota.bin",
-  "size": 1251072,
-  "sha256": "2cfa2459530552d3683db848fdd7d8cd5d0ada5e270f851f536f7a714ea79f85"
+  "url": "fw/0.6.62/alterston_light_0.6.62_ota.bin",
+  "size": 1263296,
+  "sha256": "eab2b9863685a8ed23b7bf6967fc78bb867dea62aee81da85dbab20b6bd7d3de"
  },
  "page": {
-  "url": "fw/0.6.61/alterston_light_0.6.61_page.htm.gz",
-  "size": 379288,
-  "sha256": "959b83c7571f15393fd55d5ca178c4200500dba9a4a9737c492ebf810717705b"
+  "url": "fw/0.6.62/alterston_light_0.6.62_page.htm.gz",
+  "size": 381355,
+  "sha256": "8cc898e8f5211e167c4954a9c8cdc5ce74663f0722cdfbcbc623f715aebce8df"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.61_beta.zip",
-  "size": 6782486,
-  "sha256": "14898773eb4bdb6ca4cca45417f85415f07f96f948c70a627f36479eed5a4f6a"
+  "url": "download/Alterston_Light_0.6.62_beta.zip",
+  "size": 6806177,
+  "sha256": "132ac3651e307193062c1ffc0ed140bb44ec01fd47e416748014f351ebf9ea26"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
