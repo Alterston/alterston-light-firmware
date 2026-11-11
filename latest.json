@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.66",
+ "latest": "0.6.72",
  "date": "2026-11-11",
- "notes": "Ночь с лунным светом снова ночь, а не «рассвет». Суточный график на «Главной» проматывается мышью и пальцем. Цветной свет показывается словом («голубой»), кельвины - только у белого.",
+ "notes": "Края фаз на «Свете» тянутся мышью и пальцем, ручки дня и ночи в цвет. «Быстрый подбор» внизу «Света». Пользовательский режим: системные настройки (пины, Wi-Fi, прошивка, бот Telegram) - с паролем. Сторож сети переподключает Wi-Fi, если роутер перестал отвечать. Исправлены ошибки вёрстки.",
  "ota": {
-  "url": "fw/0.6.66/alterston_light_0.6.66_ota.bin",
-  "size": 1265376,
-  "sha256": "898d3651a96f5e23433b334fd3fe0b3ba30a25688c3b6fee9dc4ad9fa758373f"
+  "url": "fw/0.6.72/alterston_light_0.6.72_ota.bin",
+  "size": 1271408,
+  "sha256": "63c1d965953e93c4c100ef5f95462fe41881bff3406044467af71ac04f5bc815"
  },
  "page": {
-  "url": "fw/0.6.66/alterston_light_0.6.66_page.htm.gz",
-  "size": 382723,
-  "sha256": "3641886010e6473f6ec194a65a89dd5f311e5049df8e55fe8b700e64d53113d5"
+  "url": "fw/0.6.72/alterston_light_0.6.72_page.htm.gz",
+  "size": 388974,
+  "sha256": "9ed63bbd5746a74e3bbf9ac4366117ee61e9434b21f7cf4c9baf81f67fb4ee3e"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.66_beta.zip",
-  "size": 6818011,
-  "sha256": "8ded33c11f2f7f4de23d88b09eee953241b1945d513e9b177a20b258e767e9ad"
+  "url": "download/Alterston_Light_0.6.72_beta.zip",
+  "size": 6855933,
+  "sha256": "76bfc6952ebc2cda4be9181804525976134695b2f4230636f7076f9c5cc397ac"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
