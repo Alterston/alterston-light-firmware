@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.65",
+ "latest": "0.6.66",
  "date": "2026-11-11",
- "notes": "Исправлено «нет связи с сайтом обновлений» примерно в каждой пятой проверке: до 4 попыток соединения. При неудаче видно время и причину. Обновления по кнопке: «Общие» → «Обновления».",
+ "notes": "Ночь с лунным светом снова ночь, а не «рассвет». Суточный график на «Главной» проматывается мышью и пальцем. Цветной свет показывается словом («голубой»), кельвины - только у белого.",
  "ota": {
-  "url": "fw/0.6.65/alterston_light_0.6.65_ota.bin",
+  "url": "fw/0.6.66/alterston_light_0.6.66_ota.bin",
   "size": 1265376,
-  "sha256": "afc732f8e6210ef0a3ebf078e4a323bda762cc7b999202d9222c8626dfa7c122"
+  "sha256": "898d3651a96f5e23433b334fd3fe0b3ba30a25688c3b6fee9dc4ad9fa758373f"
  },
  "page": {
-  "url": "fw/0.6.65/alterston_light_0.6.65_page.htm.gz",
-  "size": 381669,
-  "sha256": "706cea0489879eb8c19363bb8b76da71fbf2c62405fd983f0f094dc8a6aeedee"
+  "url": "fw/0.6.66/alterston_light_0.6.66_page.htm.gz",
+  "size": 382723,
+  "sha256": "3641886010e6473f6ec194a65a89dd5f311e5049df8e55fe8b700e64d53113d5"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.65_beta.zip",
-  "size": 6812323,
-  "sha256": "23d06584c0ce33af5c9afebf313f7779b57e36e3fd6fa7b42e9475c515b8c974"
+  "url": "download/Alterston_Light_0.6.66_beta.zip",
+  "size": 6818011,
+  "sha256": "8ded33c11f2f7f4de23d88b09eee953241b1945d513e9b177a20b258e767e9ad"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
