@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.72",
- "date": "2026-11-11",
- "notes": "Края фаз на «Свете» тянутся мышью и пальцем, ручки дня и ночи в цвет. «Быстрый подбор» внизу «Света». Пользовательский режим: системные настройки (пины, Wi-Fi, прошивка, бот Telegram) - с паролем. Сторож сети переподключает Wi-Fi, если роутер перестал отвечать. Исправлены ошибки вёрстки.",
+ "latest": "0.6.82",
+ "date": "2026-11-12",
+ "notes": "Новая «Главная»: плитки с нормой света и суточный цикл со спектром. Луна одной кнопкой, «Отменить правки». Оценка охлаждения радиатора. Предел мощности учтён в DLI и PPFD. Исправления вёрстки.",
  "ota": {
-  "url": "fw/0.6.72/alterston_light_0.6.72_ota.bin",
-  "size": 1271408,
-  "sha256": "63c1d965953e93c4c100ef5f95462fe41881bff3406044467af71ac04f5bc815"
+  "url": "fw/0.6.82/alterston_light_0.6.82_ota.bin",
+  "size": 1227488,
+  "sha256": "f1f0fe10b5be90dff89ee18cdaa6270c595cc1defefbc57948c7a0901acbf1e0"
  },
  "page": {
-  "url": "fw/0.6.72/alterston_light_0.6.72_page.htm.gz",
-  "size": 388974,
-  "sha256": "9ed63bbd5746a74e3bbf9ac4366117ee61e9434b21f7cf4c9baf81f67fb4ee3e"
+  "url": "fw/0.6.82/alterston_light_0.6.82_page.htm.gz",
+  "size": 410640,
+  "sha256": "e0e2946234af5fc2580d974407b2c46c01bbc44c83ea9e34700735c451ab1339"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.72_beta.zip",
-  "size": 6855933,
-  "sha256": "76bfc6952ebc2cda4be9181804525976134695b2f4230636f7076f9c5cc397ac"
+  "url": "download/Alterston_Light_0.6.82_beta.zip",
+  "size": 6912967,
+  "sha256": "c8d43f858b85537b334d1c6966cbe1c78713086ff00e57c9273499c81dfc9a93"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
