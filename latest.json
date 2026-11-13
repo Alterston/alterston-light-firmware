@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.90",
+ "latest": "0.6.94",
  "date": "2026-11-13",
- "notes": "Страница открывается быстрее: спектры белых диодов считаются заранее, на телефоне это около 1,6 с. Ползунки на вкладке «Свет» не тормозят. На «Главной» в «Световом поле» новый вид «Дно»: свет на дне сверху, нажми на точку - покажет свет в ней.",
+ "notes": "Светильник не замирает, пока грузится страница: свет, датчики, вентиляторы и кнопка работают во время загрузки. Исправлена перезагрузка, когда телефон засыпал на загрузке страницы. Доверие только своей странице светильника. Приложение для Android видит версию страницы. Поиск сетей Wi-Fi не выдаёт старый список за новый.",
  "ota": {
-  "url": "fw/0.6.90/alterston_light_0.6.90_ota.bin",
-  "size": 1231936,
-  "sha256": "53c25c936c9bfe78a28a436b440546d68091eb85bf0d682bf700a744297f29a3"
+  "url": "fw/0.6.94/alterston_light_0.6.94_ota.bin",
+  "size": 1233200,
+  "sha256": "55a5d88d8adff1233c3597e1c48af12ea1e0edc7c17944269b328f45bebdf170"
  },
  "page": {
-  "url": "fw/0.6.90/alterston_light_0.6.90_page.htm.gz",
-  "size": 435574,
-  "sha256": "08592bf941605338ffbe58a3f58805698e37c81e0dd51c6b46e51c6b453aff24"
+  "url": "fw/0.6.94/alterston_light_0.6.94_page.htm.gz",
+  "size": 436421,
+  "sha256": "ca4427718e15eed354f1322fef005b7ac7fe3fa308a0ac17c1b9783e76f8816a"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.90_beta.zip",
-  "size": 7353036,
-  "sha256": "ddbfddd6266fd5c8c09aec9afa2be12e6bdfc9c6c1d32293145769400423c3ab"
+  "url": "download/Alterston_Light_0.6.94_beta.zip",
+  "size": 7365288,
+  "sha256": "f6508ed43c5f468b6ebc8a9b218bb9bc1694447bbf68b19d972ee8423a688d95"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
