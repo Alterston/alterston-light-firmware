@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.6.82",
- "date": "2026-11-12",
- "notes": "Новая «Главная»: плитки с нормой света и суточный цикл со спектром. Луна одной кнопкой, «Отменить правки». Оценка охлаждения радиатора. Предел мощности учтён в DLI и PPFD. Исправления вёрстки.",
+ "latest": "0.6.89",
+ "date": "2026-11-13",
+ "notes": "Исправлен редкий сбой при частых запросах. Настройки Xendil при установке переносятся сами. Тест одной цепочки канала. Предупреждение, если нет защиты от перегрева. Справка у полей каналов. Норма света по растениям.",
  "ota": {
-  "url": "fw/0.6.82/alterston_light_0.6.82_ota.bin",
-  "size": 1227488,
-  "sha256": "f1f0fe10b5be90dff89ee18cdaa6270c595cc1defefbc57948c7a0901acbf1e0"
+  "url": "fw/0.6.89/alterston_light_0.6.89_ota.bin",
+  "size": 1231936,
+  "sha256": "7c89e018582d0ccd9c824634f22db333458d8590578d767d3e3c804925e3fb89"
  },
  "page": {
-  "url": "fw/0.6.82/alterston_light_0.6.82_page.htm.gz",
-  "size": 410640,
-  "sha256": "e0e2946234af5fc2580d974407b2c46c01bbc44c83ea9e34700735c451ab1339"
+  "url": "fw/0.6.89/alterston_light_0.6.89_page.htm.gz",
+  "size": 420389,
+  "sha256": "e7576d616b3e14edb75354f07b4b7978708260f81677c0eeada32cb2f8dea99c"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.6.82_beta.zip",
-  "size": 6912967,
-  "sha256": "c8d43f858b85537b334d1c6966cbe1c78713086ff00e57c9273499c81dfc9a93"
+  "url": "download/Alterston_Light_0.6.89_beta.zip",
+  "size": 7305668,
+  "sha256": "c67b766404a344d2032cae31eb4d3f946c2e308a05e33c611eef7caa78c56f2f"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
