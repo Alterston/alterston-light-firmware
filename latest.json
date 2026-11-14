@@ -19,5 +19,6 @@
   "sha256": "bc8f07510432be44e1468dcd38a655e496dc0a92b651827134e186cb5aa2a896"
  },
  "min": "0.6.0",
- "base": "https://alterston.github.io/alterston-light-firmware/"
+ "base": "https://alterston.github.io/alterston-light-firmware/",
+ "sig": "MEQCIGv7scAhHkuTyj1kIC10+TGwvi4FXSubEFgTmCy/w6JJAiB4gu1eQxKM+TWYE7GrFzwvyeSeiYOqct4jVFXLXjk/pw=="
 }
