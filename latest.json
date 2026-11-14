@@ -1,22 +1,22 @@
 {
  "name": "Alterston Light",
- "latest": "0.7.3",
+ "latest": "0.7.4",
  "date": "2026-11-14",
- "notes": "Обновление с сайта надёжнее: пока светильник скачивает обновление, зависший ответ странице больше не перезапускает его. Плюс всё из 0.7.2: окно обновления на весь экран с шагами и итогом, защищённые соединения по одному, время после перезапуска. Если у тебя группа светильников: задай один пароль группы (10-32 знака) на всех светильниках, «Общие» → «Сеть» → «Пароль группы».",
+ "notes": "Исправлены отказы обновления с сайта. Если обновление выдаёт ошибку TLS или памяти: перезагрузи светильник и сразу нажми «Обновить».",
  "ota": {
-  "url": "fw/0.7.3/alterston_light_0.7.3_ota.bin",
-  "size": 1246064,
-  "sha256": "884f12fb3ea2be0b4886eca5e82be6da7818cc2198cf60d294989a45f4c67bfe"
+  "url": "fw/0.7.4/alterston_light_0.7.4_ota.bin",
+  "size": 1252560,
+  "sha256": "cdfa91f25482946514195389a53a4b9c74d5a75e0f3d0e5c5360d5e0457023df"
  },
  "page": {
-  "url": "fw/0.7.3/alterston_light_0.7.3_page.htm.gz",
-  "size": 444550,
-  "sha256": "6995a04842c41199d1a368becac4e621bda8d7b86708c2b8119fe19fe732892a"
+  "url": "fw/0.7.4/alterston_light_0.7.4_page.htm.gz",
+  "size": 444953,
+  "sha256": "b7f08b5e458df52ff3e353818b9e8bc3da241c9001203c9e7f5ff4aa5c11b013"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.7.3_beta.zip",
-  "size": 7426435,
-  "sha256": "0a659a6104f567883005fa7d4facdab007634160726303f5d9ab0b20e3d64a2d"
+  "url": "download/Alterston_Light_0.7.4_beta.zip",
+  "size": 7440135,
+  "sha256": "bc8f07510432be44e1468dcd38a655e496dc0a92b651827134e186cb5aa2a896"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/"
