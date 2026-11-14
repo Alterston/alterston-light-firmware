@@ -1,24 +1,24 @@
 {
  "name": "Alterston Light",
- "latest": "0.7.4",
+ "latest": "0.7.5",
  "date": "2026-11-14",
- "notes": "Если не обновляется (ошибка TLS, X509 или памяти): скачай с alterston.github.io/alterston-light-firmware из fw/0.7.4 файлы _ota.bin и _page.htm.gz и загрузи их по очереди в «Обновление прошивки по Wi-Fi».",
+ "notes": "0.7.5: обновление докачивает с места обрыва. Если не обновляется: скачай с alterston.github.io/alterston-light-firmware из fw/0.7.5 файлы _ota.bin и _page.htm.gz и загрузи их по очереди в «Обновление прошивки по Wi-Fi».",
  "ota": {
-  "url": "fw/0.7.4/alterston_light_0.7.4_ota.bin",
-  "size": 1252560,
-  "sha256": "cdfa91f25482946514195389a53a4b9c74d5a75e0f3d0e5c5360d5e0457023df"
+  "url": "fw/0.7.5/alterston_light_0.7.5_ota.bin",
+  "size": 1247632,
+  "sha256": "25d8e3476d1c4ba686609661a641d425f55f49c24c0af9038402e3ecddc6b2ff"
  },
  "page": {
-  "url": "fw/0.7.4/alterston_light_0.7.4_page.htm.gz",
-  "size": 444953,
-  "sha256": "b7f08b5e458df52ff3e353818b9e8bc3da241c9001203c9e7f5ff4aa5c11b013"
+  "url": "fw/0.7.5/alterston_light_0.7.5_page.htm.gz",
+  "size": 446365,
+  "sha256": "9c48d5f9d66bf73517612820cebcf053907281a3c5dc2b08a225aa41f0e5953b"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.7.4_beta.zip",
-  "size": 7440135,
-  "sha256": "bc8f07510432be44e1468dcd38a655e496dc0a92b651827134e186cb5aa2a896"
+  "url": "download/Alterston_Light_0.7.5_beta.zip",
+  "size": 7440450,
+  "sha256": "320d9a0d4d3e9b3fed19358a2adffa28f3fbe728c664c68f391a01d40144ab7c"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEQCIGv7scAhHkuTyj1kIC10+TGwvi4FXSubEFgTmCy/w6JJAiB4gu1eQxKM+TWYE7GrFzwvyeSeiYOqct4jVFXLXjk/pw=="
+ "sig": "MEUCIFbL81rYGRJADc2T/AEhHolKhzKjxxOlFmeeVsgZd8jiAiEA5+KFDkzzbJx1IgUtDn+PW3lMC9GytNgKlnf082tZJ3I="
 }
