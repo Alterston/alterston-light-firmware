@@ -2,7 +2,7 @@
  "name": "Alterston Light",
  "latest": "0.7.5",
  "date": "2026-11-14",
- "notes": "0.7.5: обновление докачивает с места обрыва. Если не обновляется: скачай с alterston.github.io/alterston-light-firmware из fw/0.7.5 файлы _ota.bin и _page.htm.gz и загрузи их по очереди в «Обновление прошивки по Wi-Fi».",
+ "notes": "Не обновляется? Перезагрузи светильник, сразу нажми «Проверить обновление прошивки» и «Обновить» (до 10 мин). Иначе скачай с alterston.github.io/alterston-light-firmware из fw/0.7.5 _ota.bin и _page.htm.gz, загрузи оба в «Обновление прошивки по Wi-Fi».",
  "ota": {
   "url": "fw/0.7.5/alterston_light_0.7.5_ota.bin",
   "size": 1247632,
@@ -20,5 +20,5 @@
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEUCIFbL81rYGRJADc2T/AEhHolKhzKjxxOlFmeeVsgZd8jiAiEA5+KFDkzzbJx1IgUtDn+PW3lMC9GytNgKlnf082tZJ3I="
+ "sig": "MEUCIHTS4soiMFD1Nqwcrm0KxvjZPrQAcvZvofWzHgNVnIBDAiEAlPPAwUClc8NWZB6zGX0OVQUZyPzszrhte4l2j49vRrw="
 }
