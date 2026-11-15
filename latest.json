@@ -1,24 +1,24 @@
 {
  "name": "Alterston Light",
- "latest": "0.7.6",
+ "latest": "0.7.7",
  "date": "2026-11-15",
- "notes": "Не обновляется? Перезагрузи светильник, сразу нажми «Проверить обновление прошивки» и «Обновить» (до 10 мин). Иначе скачай с alterston.github.io/alterston-light-firmware из fw/0.7.6 _ota.bin и _page.htm.gz, загрузи оба в «Обновление прошивки по Wi-Fi».",
+ "notes": "Не обновляется? Перезагрузи светильник, сразу нажми «Проверить обновление прошивки» и «Обновить» (до 10 мин). Иначе скачай с alterston.github.io/alterston-light-firmware из fw/0.7.7 _ota.bin и _page.htm.gz, загрузи оба в «Обновление прошивки по Wi-Fi».",
  "ota": {
-  "url": "fw/0.7.6/alterston_light_0.7.6_ota.bin",
-  "size": 1249328,
-  "sha256": "922aa71639f0341fa64b973360b27e9d9311eabed3ece6e0e2fa6089438c88a6"
+  "url": "fw/0.7.7/alterston_light_0.7.7_ota.bin",
+  "size": 1249824,
+  "sha256": "2b22c0c214d76c75956fee56108190e89b2cd6b19a2c37be08d87b2645ac9c02"
  },
  "page": {
-  "url": "fw/0.7.6/alterston_light_0.7.6_page.htm.gz",
-  "size": 447341,
-  "sha256": "272bf2ff7a2a9dd4cd0dc30c2776d378dd052656ad5d0a37f6de40733568b803"
+  "url": "fw/0.7.7/alterston_light_0.7.7_page.htm.gz",
+  "size": 447879,
+  "sha256": "0561d917f489cc8ee7567436a7425e9442af1a01e158720ebc087fb03c0d07d5"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.7.6_beta.zip",
-  "size": 7448400,
-  "sha256": "490df6b0d28a912272634e29518d9bf3debe6c1ec087db9ca71226fea1268f0a"
+  "url": "download/Alterston_Light_0.7.7_beta.zip",
+  "size": 7451475,
+  "sha256": "f789cb3b0ae01b59d9901eb7a8f06e5a2c8aab8703f68e702ed5515376aafcb5"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEUCIHCA1LwllPB/8iQD4ZLJk2MShEQMiKxONnmhNCvpikd2AiEA6/ta41LY3mZ9Jn2kMBasCsHNrl/iz6YjDaJdrChvASw="
+ "sig": "MEUCIQD3dj4nN9S9loU54YDuwzi31IpWWGPmJgTVSpRsog7NaQIgDBQBXurrSWTiFP+qY1F2oZJ83Eh0JsK7IlS9U4aasQA="
 }
