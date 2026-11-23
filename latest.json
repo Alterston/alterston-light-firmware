@@ -1,24 +1,24 @@
 {
  "name": "Alterston Light",
- "latest": "0.7.7",
- "date": "2026-11-15",
- "notes": "Не обновляется? Перезагрузи светильник, сразу нажми «Проверить обновление прошивки» и «Обновить» (до 10 мин). Иначе скачай с alterston.github.io/alterston-light-firmware из fw/0.7.7 _ota.bin и _page.htm.gz, загрузи оба в «Обновление прошивки по Wi-Fi».",
+ "latest": "0.7.8",
+ "date": "2026-11-24",
+ "notes": "Запуск при неисправных часах DS3231, перенос из Xendil без потерь, замеры света с журналом. Не обновляется? Перезагрузи светильник и нажми «Обновить».",
  "ota": {
-  "url": "fw/0.7.7/alterston_light_0.7.7_ota.bin",
-  "size": 1249824,
-  "sha256": "2b22c0c214d76c75956fee56108190e89b2cd6b19a2c37be08d87b2645ac9c02"
+  "url": "fw/0.7.8/alterston_light_0.7.8_ota.bin",
+  "size": 1252064,
+  "sha256": "e3141c525dd9abb056a95ec04c2ebc61e913562a22c7c4fa35560ce27777923e"
  },
  "page": {
-  "url": "fw/0.7.7/alterston_light_0.7.7_page.htm.gz",
-  "size": 447879,
-  "sha256": "0561d917f489cc8ee7567436a7425e9442af1a01e158720ebc087fb03c0d07d5"
+  "url": "fw/0.7.8/alterston_light_0.7.8_page.htm.gz",
+  "size": 453224,
+  "sha256": "c0802467b67f7e8f1a4d2159bc82f8d67d1f1c8d865cbe3b19da82e1d9128eaf"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.7.7_beta.zip",
-  "size": 7451475,
-  "sha256": "f789cb3b0ae01b59d9901eb7a8f06e5a2c8aab8703f68e702ed5515376aafcb5"
+  "url": "download/Alterston_Light_0.7.8_beta.zip",
+  "size": 7481746,
+  "sha256": "a72985b9328e6f059d3600f83790abf8e211aec018deb6c2343b2bf8f140cca1"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEUCIQD3dj4nN9S9loU54YDuwzi31IpWWGPmJgTVSpRsog7NaQIgDBQBXurrSWTiFP+qY1F2oZJ83Eh0JsK7IlS9U4aasQA="
+ "sig": "MEYCIQD1aWMt+sts7lRK1sQ0sEXeg6sR6pc+MOQIlxsNPFlz/gIhALS7PoBxcRB8yGmRhbb9+e9OHN8Ckiw6h8Td75w2J2Nc"
 }

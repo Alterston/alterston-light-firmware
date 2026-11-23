@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alterston Light</title>
+<meta name="description" content="Бесплатная прошивка и приложение для самодельного аквариумного светильника на ESP32">
+<style>
+:root { --bg: #0f1722; --card: #172233; --line: #263449; --text: #e6edf6; --muted: #9fb0c6; --acc: #3ddc97; --btn: #2563eb; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 32px 16px 48px; }
+h1 { margin: 0 0 6px; font-size: 30px; }
+.lead { color: var(--muted); margin: 0 0 24px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px; display: flex; flex-direction: column; gap: 10px; }
+.card h2 { margin: 0; font-size: 19px; }
+.card p { margin: 0; color: var(--muted); font-size: 15px; }
+.btn { display: inline-block; margin-top: auto; padding: 10px 14px; border-radius: 10px; background: var(--btn); color: #fff; text-decoration: none; font-weight: 600; text-align: center; overflow-wrap: anywhere; }
+.btn.alt { background: transparent; border: 1px solid var(--line); color: var(--text); }
+.ver { color: var(--acc); font-weight: 600; }
+.foot { margin-top: 28px; color: var(--muted); font-size: 14px; }
+.foot a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Alterston Light</h1>
+  <p class="lead">Бесплатная прошивка и страница управления для самодельного аквариумного светильника на ESP32 (плата DemonMDV XEN-Controller LTRF и совместимые). Последняя версия: <span class="ver">0.7.8</span> от 24.11.2026.</p>
+  <div class="grid">
+    <div class="card"><h2>Установить прошивку</h2><p>С Xendil или на новую плату: скачай архив, распакуй и запусти 1_USTANOVIT.bat. Установщик сначала сделает копию платы.</p><a class="btn" href="download/Alterston_Light_0.7.8_beta.zip">Скачать Alterston_Light_0.7.8_beta.zip</a></div>
+    <div class="card"><h2>Обновить</h2><p>Уже стоит Alterston Light: страница светильника, «Информация», «Обновление». Светильник сам скачает новую версию с этого сайта.</p><a class="btn alt" href="latest.json">Что сейчас на сайте</a></div>
+    <div class="card"><h2>Приложение для Android</h2><p>Все светильники в одном месте, бесплатно, Android 7.0 и новее. Приложения нет в Play Market: Android спросит разрешение ставить из браузера.</p><a class="btn" href="app/AlterstonLight_3.2.apk">Скачать приложение 3.2</a></div>
+    <div class="card"><h2>Поддержать автора</h2><p>Прошивка бесплатная. Если она тебе помогла, буду рад любой поддержке. Номер карты есть на странице светильника: «Информация», «О прошивке».</p><a class="btn alt" href="https://dalink.to/alterston_light" rel="noopener">DonationAlerts</a></div>
+  </div>
+  <p class="foot">Автор идеи: Антон Киршин. Все версии и контрольные суммы: <a href="https://github.com/Alterston/alterston-light-firmware">репозиторий на GitHub</a>.</p>
+</div>
+</body>
+</html>
