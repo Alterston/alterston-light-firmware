@@ -1,24 +1,24 @@
 {
  "name": "Alterston Light",
- "latest": "0.7.8",
- "date": "2026-11-24",
- "notes": "Запуск при неисправных часах DS3231, перенос из Xendil без потерь, замеры света с журналом. Не обновляется? Перезагрузи светильник и нажми «Обновить».",
+ "latest": "0.8.0",
+ "date": "2026-11-28",
+ "notes": "PCA9685 (бета), экран 3,12″, погода, сон экрана ночью. Закрыта утечка паролей из резервной копии настроек. Ставил 0.7.9 с PCA9685? Проверь «Общие» → «Оборудование».",
  "ota": {
-  "url": "fw/0.7.8/alterston_light_0.7.8_ota.bin",
-  "size": 1252064,
-  "sha256": "e3141c525dd9abb056a95ec04c2ebc61e913562a22c7c4fa35560ce27777923e"
+  "url": "fw/0.8.0/alterston_light_0.8.0_ota.bin",
+  "size": 1248848,
+  "sha256": "eed2c760c7a1150ea6bb0520b322bd6a6ed99ebd043a40fb2b85dd2bc8eb015d"
  },
  "page": {
-  "url": "fw/0.7.8/alterston_light_0.7.8_page.htm.gz",
-  "size": 453224,
-  "sha256": "c0802467b67f7e8f1a4d2159bc82f8d67d1f1c8d865cbe3b19da82e1d9128eaf"
+  "url": "fw/0.8.0/alterston_light_0.8.0_page.htm.gz",
+  "size": 476214,
+  "sha256": "f8556c986d3fe40d44a674aa69acbd32cd4ad654d7b088f0cf2139783141aedf"
  },
  "usb": {
-  "url": "download/Alterston_Light_0.7.8_beta.zip",
-  "size": 7481746,
-  "sha256": "a72985b9328e6f059d3600f83790abf8e211aec018deb6c2343b2bf8f140cca1"
+  "url": "download/Alterston_Light_0.8.0_beta.zip",
+  "size": 7602164,
+  "sha256": "194bf37825c9732214f62540abbf96d9dcf568e8e55f0f71e70980953725a834"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEYCIQD1aWMt+sts7lRK1sQ0sEXeg6sR6pc+MOQIlxsNPFlz/gIhALS7PoBxcRB8yGmRhbb9+e9OHN8Ckiw6h8Td75w2J2Nc"
+ "sig": "MEUCIC6AuAdCjQhogMhDp0+7lsRmGn/sN0RcIs74uAvuTDfXAiEAqOxQlkKcLWxV4wz2EOPo4WCmVkuYCpOVcDT2kSmy8ZU="
 }
