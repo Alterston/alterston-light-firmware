@@ -15,10 +15,10 @@
  },
  "usb": {
   "url": "download/Alterston_Light_0.8.0_beta.zip",
-  "size": 7602164,
-  "sha256": "194bf37825c9732214f62540abbf96d9dcf568e8e55f0f71e70980953725a834"
+  "size": 7603246,
+  "sha256": "ccfc44f27f862897e7535aa7a9fba7f94b17967a3ab5c130de87aa75f4d63b37"
  },
  "min": "0.6.0",
  "base": "https://alterston.github.io/alterston-light-firmware/",
- "sig": "MEUCIC6AuAdCjQhogMhDp0+7lsRmGn/sN0RcIs74uAvuTDfXAiEAqOxQlkKcLWxV4wz2EOPo4WCmVkuYCpOVcDT2kSmy8ZU="
+ "sig": "MEUCIDwKMf05IK9mPh1kgqqBpOvqYfFcs5bIFHjkuFArcmpJAiEApJ9IYBgpa97Nd5P1MQV9dUUZRlqO1L7esNUgIFURoHY="
 }
